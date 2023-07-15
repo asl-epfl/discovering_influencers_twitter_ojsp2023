@@ -1,4 +1,4 @@
-# twitter_graph_learning
+# twitter data and code
 
 The data and the code for the paper: V. Shumovskaia, M. Kayaalp, M. Cemri, and A. H. Sayed, “Discovering influencers in opinion formation over social graphs,” IEEE Open Journal of Signal Processing, pp. 1–20, 2023.
 
