@@ -5,7 +5,11 @@ The data and the code for the paper: V. Shumovskaia, M. Kayaalp, M. Cemri, and A
 To get the figures in the paper, run these scripts:
 ```
 python3 elon_musk_run.py
+```
+```
 python3 jour_run.py
+```
+```
 python3 ben_run.py
 ```
 
