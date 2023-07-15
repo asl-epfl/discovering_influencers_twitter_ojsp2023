@@ -6,3 +6,5 @@ To get the figures in the paper, run these scripts:
 python3 elon_musk_run.py
 python3 jour_run.py
 python3 ben_run.py
+
+To run the sentiment analysis algorithm, please download the language model at https://drive.google.com/file/d/14bAG2IattBsrdqAjRbeBGU6XyHJCAEu_/view?usp=sharing and place it in utils folder.
