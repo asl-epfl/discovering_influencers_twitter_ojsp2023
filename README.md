@@ -2,7 +2,9 @@
 
 The data and the code for the Twitter experiments in the paper: 
 
-V. Shumovskaia, M. Kayaalp, M. Cemri, and A. H. Sayed, “[Discovering influencers in opinion formation over social graphs](https://ieeexplore.ieee.org/document/10079214),” IEEE Open Journal of Signal Processing, pp. 1–20, 2023.
+V. Shumovskaia, M. Kayaalp, M. Cemri, and A. H. Sayed, “[Discovering influencers in opinion formation over social graphs](https://ieeexplore.ieee.org/document/10079214),” IEEE Open Journal of Signal Processing, pp. 1–20, 2023.[![DOI](https://zenodo.org/badge/666631456.svg)](https://zenodo.org/badge/latestdoi/666631456)
+
+
 
 #### To get the figures in the paper, run these scripts:
 ```
